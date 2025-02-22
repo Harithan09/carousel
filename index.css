@@ -1,0 +1,28 @@
+.home-bg-container{
+   background-color: antiquewhite;
+}
+.home-heading{
+    text-align: center;
+    color: rgb(159, 149, 149);
+}
+.carousel-image{
+    height: 400px;
+    object-fit: cover;
+     border-bottom-right-radius: 100px;
+     border-top-left-radius: 100px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     padding-left: 30px;
+     padding-right: 30px;
+}
+.asking-container{
+    padding: 20px 0px ;
+    letter-spacing: 2px;
+}
+.items-container{
+    background-color: aquamarine;
+}
+.items-image{
+    height: 80px;
+    width: 80px;
+}
